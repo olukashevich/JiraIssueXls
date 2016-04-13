@@ -49,8 +49,8 @@ import model.JiraUserBean;
  */
 public class JiraService
 {
-   // private static final URI JIRA_SERVER_URI = URI.create("http://srv-jira-clone.softeq.com");
-   // private static final String JIRA_SERVER_URI_ISSUE = "%s/rest/api/latest/issue/";
+   //private static final URI JIRA_SERVER_URI = URI.create("http://srv-jira-clone.softeq.com");
+   //private static final String JIRA_SERVER_URI_ISSUE = "%s/rest/api/latest/issue/";
     private static final String JIRA_SERVER_URI_PART_LINK_REMOTE = "/remotelink";
     private static final String ISSUE_TYPE_TASK = "Task";
     private static final String ISSUE_TYPE_SUB_TASK = "Sub-task";
